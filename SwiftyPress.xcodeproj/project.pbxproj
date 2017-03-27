@@ -267,7 +267,7 @@
 		8BF312BB1E37FC7200CE27B7 /* AlertOnboarding.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AlertOnboarding.xib; sourceTree = "<group>"; };
 		8BF762021E36617D00AB0F42 /* PostRouter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PostRouter.swift; sourceTree = "<group>"; };
 		9B3988CB1E89A750000EABE5 /* XCBlog.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XCBlog.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		9B3988CC1E89A751000EABE5 /* XCBlog-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "XCBlog-Info.plist"; path = "/Users/shashi/blog/SwiftyPress/XCBlog-Info.plist"; sourceTree = "<absolute>"; };
+		9B3988CC1E89A751000EABE5 /* SwiftyPress Example copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "SwiftyPress Example copy-Info.plist"; path = "/Users/shashi/blog/SwiftyPress/SwiftyPress Example copy-Info.plist"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -330,7 +330,7 @@
 				8B3360101CA884F30033B2AE /* XCBlog */,
 				8B3360881CA88F850033B2AE /* Frameworks */,
 				8B335FB31CA880A20033B2AE /* Products */,
-				9B3988CC1E89A751000EABE5 /* XCBlog-Info.plist */,
+				9B3988CC1E89A751000EABE5 /* SwiftyPress Example copy-Info.plist */,
 			);
 			sourceTree = "<group>";
 		};
