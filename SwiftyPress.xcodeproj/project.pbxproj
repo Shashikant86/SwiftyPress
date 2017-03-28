@@ -190,8 +190,6 @@
 		8B335FD61CA8810D0033B2AE /* Info-iOS.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Info-iOS.plist"; sourceTree = "<group>"; };
 		8B335FE11CA883190033B2AE /* Cartfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Cartfile; sourceTree = "<group>"; };
 		8B335FE21CA883190033B2AE /* Cartfile.private */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Cartfile.private; sourceTree = "<group>"; };
-		8B335FE31CA883190033B2AE /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
-		8B335FE41CA883190033B2AE /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		8B3360111CA884F30033B2AE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8B3360181CA884F30033B2AE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		8B33601A1CA884F30033B2AE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -372,8 +370,6 @@
 			children = (
 				8B335FE11CA883190033B2AE /* Cartfile */,
 				8B335FE21CA883190033B2AE /* Cartfile.private */,
-				8B335FE31CA883190033B2AE /* LICENSE */,
-				8B335FE41CA883190033B2AE /* README.md */,
 			);
 			name = Metadata;
 			sourceTree = "<group>";
