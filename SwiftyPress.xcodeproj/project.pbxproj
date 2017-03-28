@@ -267,7 +267,7 @@
 		8BF312BB1E37FC7200CE27B7 /* AlertOnboarding.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AlertOnboarding.xib; sourceTree = "<group>"; };
 		8BF762021E36617D00AB0F42 /* PostRouter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PostRouter.swift; sourceTree = "<group>"; };
 		9B3988CB1E89A750000EABE5 /* XCBlog.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XCBlog.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		9B3988CC1E89A751000EABE5 /* SwiftyPress Example copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "SwiftyPress Example copy-Info.plist"; path = "/Users/shashi/blog/SwiftyPress/SwiftyPress Example copy-Info.plist"; sourceTree = "<absolute>"; };
+		9B3988CC1E89A751000EABE5 /* xcblog-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "xcblog-Info.plist"; path = "/Users/shashi/blog/SwiftyPress/xcblog-Info.plist"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -330,7 +330,7 @@
 				8B3360101CA884F30033B2AE /* XCBlog */,
 				8B3360881CA88F850033B2AE /* Frameworks */,
 				8B335FB31CA880A20033B2AE /* Products */,
-				9B3988CC1E89A751000EABE5 /* SwiftyPress Example copy-Info.plist */,
+				9B3988CC1E89A751000EABE5 /* xcblog-Info.plist */,
 			);
 			sourceTree = "<group>";
 		};
@@ -644,7 +644,7 @@
 						LastSwiftMigration = 0820;
 					};
 					9B3988A71E89A750000EABE5 = {
-						DevelopmentTeam = ZYJTUJP7C7;
+						ProvisioningStyle = Manual;
 					};
 				};
 			};
@@ -1046,7 +1046,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = ZYJTUJP7C7;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				FRAMEWORK_SEARCH_PATHS = (
@@ -1068,7 +1068,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				INFOPLIST_FILE = "SwiftyPress Example copy-Info.plist";
+				INFOPLIST_FILE = "xcblog-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = (
@@ -1110,7 +1110,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = ZYJTUJP7C7;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				FRAMEWORK_SEARCH_PATHS = (
@@ -1126,7 +1126,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				INFOPLIST_FILE = "SwiftyPress Example copy-Info.plist";
+				INFOPLIST_FILE = "xcblog-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = (
