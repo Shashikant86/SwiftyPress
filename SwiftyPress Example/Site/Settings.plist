@@ -46,7 +46,7 @@
 			<key>title</key>
 			<string>Facebook</string>
 			<key>link</key>
-			<string></string>
+			<string>https://www.facebook.com/shashikantjagtaplondon/</string>
 			<key>app</key>
 			<string></string>
 			<key>icon</key>
@@ -56,9 +56,9 @@
 			<key>title</key>
 			<string>Twitter</string>
 			<key>link</key>
-			<string>http://twitter.com/basememara</string>
+			<string>https://twitter.com/Shashikant86</string>
 			<key>app</key>
-			<string>twitter://user?screen_name=basememara</string>
+			<string>twitter://user?screen_name=Shashikant86</string>
 			<key>icon</key>
 			<string>twitter</string>
 		</dict>
@@ -66,37 +66,17 @@
 			<key>title</key>
 			<string>GooglePlus</string>
 			<key>link</key>
-			<string>http://google.com/+BasemEmara</string>
+			<string>http://google.com/+ShashikantJagtap</string>
 			<key>app</key>
-			<string>gplus://plus.google.com/app/basic/+BasemEmara/posts</string>
+			<string>gplus://plus.google.com/app/basic/+ShashikantJagtap/posts</string>
 			<key>icon</key>
 			<string>googleplus</string>
 		</dict>
 		<dict>
 			<key>title</key>
-			<string>Pinterest</string>
-			<key>link</key>
-			<string></string>
-			<key>app</key>
-			<string></string>
-			<key>icon</key>
-			<string>pinterest</string>
-		</dict>
-		<dict>
-			<key>title</key>
-			<string>Instagram</string>
-			<key>link</key>
-			<string></string>
-			<key>app</key>
-			<string></string>
-			<key>icon</key>
-			<string>instagram</string>
-		</dict>
-		<dict>
-			<key>title</key>
 			<string>YouTube</string>
 			<key>link</key>
-			<string></string>
+			<string>https://www.youtube.com/user/behatphp</string>
 			<key>app</key>
 			<string></string>
 			<key>icon</key>
@@ -104,19 +84,9 @@
 		</dict>
 		<dict>
 			<key>title</key>
-			<string>LinkedIn</string>
-			<key>link</key>
-			<string>https://www.linkedin.com/profile/view?id=36761206</string>
-			<key>app</key>
-			<string>linkedin://profile?id=36761206</string>
-			<key>icon</key>
-			<string>linkedin</string>
-		</dict>
-		<dict>
-			<key>title</key>
 			<string>GitHub</string>
 			<key>link</key>
-			<string>https://github.com/basememara</string>
+			<string>https://github.com/Shashikant86</string>
 			<key>app</key>
 			<string></string>
 			<key>icon</key>
@@ -131,7 +101,7 @@
 			<key>desc</key>
 			<string>Thank you for downloading my mobile app by Shashikant Jagtap about iOS Continuous Delivery and DevOps</string>
 			<key>image</key>
-			<string>page1</string>
+			<string>welcome</string>
 			<key>bgImage</key>
 			<string></string>
 		</dict>
@@ -141,7 +111,7 @@
 			<key>desc</key>
 			<string>View my blog posts in an easy to read format. Share directly from within the app. View related posts. Read posts even when you’re offline!</string>
 			<key>image</key>
-			<string>page2</string>
+			<string>posts</string>
 			<key>bgImage</key>
 			<string></string>
 		</dict>
@@ -151,7 +121,7 @@
 			<key>desc</key>
 			<string>Use the search to narrow down your results. Scope them using various filters, such as title, content, and keywords. View your search history to recall previous searches.</string>
 			<key>image</key>
-			<string>page3</string>
+			<string>search</string>
 			<key>bgImage</key>
 			<string></string>
 		</dict>
@@ -161,17 +131,17 @@
 			<key>desc</key>
 			<string>Never forget a blog post again! Mark your favorite posts for easy referencing later. Check out popular posts that the community has found helpful or interesting.</string>
 			<key>image</key>
-			<string>page4</string>
+			<string>favorite</string>
 			<key>bgImage</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>title</key>
-			<string>Newsletter</string>
+			<string>About Me </string>
 			<key>desc</key>
-			<string>Thank you for coming along for the journey; I hope you find it as fun and exciting as I do! Be sure to sign up for my personal newsletter and get the latest happenings, tips, tricks, and tutorials right in your inbox!</string>
+			<string>More about Me</string>
 			<key>image</key>
-			<string>page5</string>
+			<string>about</string>
 			<key>bgImage</key>
 			<string></string>
 		</dict>
