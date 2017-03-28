@@ -1,11 +1,3 @@
-//
-//  DataScrollable.swift
-//  SwiftyPress
-//
-//  Created by Basem Emara on 4/2/16.
-//
-//
-
 import Foundation
 
 protocol DataViewable {

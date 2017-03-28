@@ -1,11 +1,3 @@
-//
-//  UIStoryboard.swift
-//  SwiftyPress
-//
-//  Created by Basem Emara on 2/20/17.
-//
-//
-
 import UIKit
 
 extension UIStoryboard {

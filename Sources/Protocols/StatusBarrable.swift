@@ -1,11 +1,3 @@
-//
-//  StatusBarable.swift
-//  SwiftyPress
-//
-//  Created by Basem Emara on 5/9/16.
-//
-//
-
 import Foundation
 
 protocol StatusBarrable: class {

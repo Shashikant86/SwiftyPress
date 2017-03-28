@@ -1,11 +1,3 @@
-//
-//  PostViewScrollable.swift
-//  SwiftyPress
-//
-//  Created by Basem Emara on 4/2/16.
-//
-//
-
 import UIKit
 
 protocol DataControllable: class {

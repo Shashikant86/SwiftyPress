@@ -1,10 +1,3 @@
-//
-//  AppData.swift
-//  SwiftyPress
-//
-//  Created by Basem Emara on 2/6/17.
-//
-//
 
 import Foundation
 import RealmSwift

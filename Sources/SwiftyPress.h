@@ -1,11 +1,3 @@
-//
-//  SwiftyPress.h
-//  SwiftyPress
-//
-//  Created by Basem Emara on 3/27/16.
-//
-//
-
 #import <UIKit/UIKit.h>
 #import "GAI.h"
 #import "GAIDictionaryBuilder.h"

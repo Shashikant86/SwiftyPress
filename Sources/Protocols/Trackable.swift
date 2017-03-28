@@ -1,11 +1,3 @@
-//
-//  Trackable.swift
-//  SwiftyPress
-//
-//  Created by Basem Emara on 5/12/16.
-//
-//
-
 import Foundation
 
 protocol Trackable {

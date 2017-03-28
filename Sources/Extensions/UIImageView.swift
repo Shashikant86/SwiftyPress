@@ -1,11 +1,3 @@
-//
-//  UIImageView.swift
-//  SwiftyPress
-//
-//  Created by Basem Emara on 4/1/16.
-//
-//
-
 import UIKit
 import Kingfisher
 

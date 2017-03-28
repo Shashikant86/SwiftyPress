@@ -1,11 +1,3 @@
-//
-//  RealmPostCollectionViewController.swift
-//  SwiftyPress
-//
-//  Created by Basem Emara on 5/7/16.
-//
-//
-
 import UIKit
 import ZamzamKit
 import RealmSwift

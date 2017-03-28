@@ -1,11 +1,3 @@
-//
-//  PostDetailController.swift
-//  SwiftyPress
-//
-//  Created by Basem Emara on 3/30/16.
-//
-//
-
 import UIKit
 import WebKit
 import ZamzamKit

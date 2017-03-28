@@ -1,11 +1,3 @@
-//
-//  JSONKeys.swift
-//  SwiftyPress
-//
-//  Created by Basem Emara on 5/2/16.
-//
-//
-
 import JASON
 
 extension JSONKeys {

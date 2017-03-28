@@ -1,11 +1,3 @@
-//
-//  HistoryViewController.swift
-//  SwiftyPress
-//
-//  Created by Basem Emara on 5/6/16.
-//
-//
-
 import UIKit
 import ZamzamKit
 

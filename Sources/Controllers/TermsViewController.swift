@@ -1,11 +1,3 @@
-//
-//  TermsViewController.swift
-//  SwiftyPress
-//
-//  Created by Basem Emara on 2/12/17.
-//
-//
-
 import UIKit
 import ZamzamKit
 import RealmSwift

@@ -1,11 +1,3 @@
-//
-//  Media.swift
-//  SwiftyPress
-//
-//  Created by Basem Emara on 1/23/17.
-//
-//
-
 import Foundation
 import RealmSwift
 import JASON

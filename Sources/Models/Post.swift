@@ -1,11 +1,3 @@
-//
-//  BlogPostModel.swift
-//  ZamzamKitData
-//
-//  Created by Basem Emara on 3/20/16.
-//
-//
-
 import Foundation
 import RealmSwift
 import ZamzamKit

@@ -1,11 +1,3 @@
-//
-//  UIApplicationDelegate.swift
-//  SwiftyPress
-//
-//  Created by Basem Emara on 5/6/16.
-//
-//
-
 import Foundation
 import ZamzamKit
 import JASON
@@ -55,7 +47,7 @@ public extension AppPressable where Self: UIApplicationDelegate {
         
         setupTheme()
         
-        Log(info: "SwiftyPress finish launching.")
+        Log(info: "XCBlog finish launching.")
         
         // Handle shortcut launch
         if let shortcutItem = launchOptions?[.shortcutItem] as? UIApplicationShortcutItem {

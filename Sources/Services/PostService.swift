@@ -1,11 +1,3 @@
-//
-//  BlogPostManager.swift
-//  Pods
-//
-//  Created by Basem Emara on 6/9/15.
-//
-//
-
 import Foundation
 import Alamofire
 import JASON

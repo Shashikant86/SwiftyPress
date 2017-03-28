@@ -1,11 +1,3 @@
-//
-//  TermService.swift
-//  SwiftyPress
-//
-//  Created by Basem Emara on 5/13/16.
-//
-//
-
 import Foundation
 import Alamofire
 import RealmSwift
